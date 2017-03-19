@@ -1,0 +1,55 @@
+{
+  "name": "AD Drugs",
+  "value": 100,
+  "children": [
+    {
+      "name": "Drugs for APOE",
+	  "value": 75,
+      "children": [
+        {
+          "name": "BEXAROTENE",
+		  "value": 25
+        },
+        {
+          "name": "SIMVASTATIN",
+		  "value": 25
+        },
+        {
+          "name": "PRAVASTATIN",
+		  "value": 10
+        },
+        {
+          "name": "RITONAVIR",
+		  "value": 10
+        }
+      ]
+    },
+    {
+      "name": "Drugs for CCL11",
+	  "value": 75,
+      "children": [
+        {
+          "name": "GW873140",
+		  "value": 20
+        },
+        {
+          "name": "MLN1202",
+		  "value": 15
+        },
+		{
+			"name": "TPI ASM8",
+			"value": 15
+		},
+		{
+			"name": "BERTILIMUMAB",
+			"value": 15
+		},
+		{
+			"name": "BMS-741672",
+			"value": 15
+		}
+		
+      ]
+    }
+  ]
+}
