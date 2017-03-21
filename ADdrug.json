@@ -1,52 +1,64 @@
 {
   "name": "AD Drugs",
   "value": 100,
+  "descr" : "Repurposing Drugs for AD",
   "children": [
     {
       "name": "Drugs for APOE",
 	  "value": 75,
+      "descr" : " ",
       "children": [
         {
           "name": "BEXAROTENE",
-		  "value": 25
+		  "value": 25,
+          "descr" : "FDA approved"
         },
         {
           "name": "SIMVASTATIN",
-		  "value": 25
+		  "value": 25,
+          "descr" : "FDA approved"
         },
         {
           "name": "PRAVASTATIN",
-		  "value": 10
+		  "value": 10,
+          "descr" : "Lack info"
         },
         {
           "name": "RITONAVIR",
-		  "value": 10
+		  "value": 10,
+          "descr" : "Lack info"
         }
       ]
     },
     {
       "name": "Drugs for CCL11",
+      "descr" : " ",
 	  "value": 75,
       "children": [
         {
           "name": "GW873140",
-		  "value": 20
+		  "value": 20,
+          "descr" : "Phase III"
         },
         {
           "name": "MLN1202",
-		  "value": 15
+		  "value": 15,
+          "descr" : "Phase II"
         },
 		{
 			"name": "TPI ASM8",
-			"value": 15
+			"value": 15,
+            "descr" : "Phase II"
 		},
 		{
 			"name": "BERTILIMUMAB",
-			"value": 15
+			"value": 15,
+            "descr" : "Phase II"
 		},
 		{
 			"name": "BMS-741672",
-			"value": 15
+			"value": 15,
+            "descr" : "Phase II"
 		}
 		
       ]
